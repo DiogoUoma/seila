@@ -9,7 +9,7 @@ const PageArara = () => {
       <img src={arara} />
       <h3>Arara</h3>
       <nav>
-        <Link to="/Page1">Arara</Link>
+        <Link to="/">Arara</Link>
       </nav>
     </div>
   );

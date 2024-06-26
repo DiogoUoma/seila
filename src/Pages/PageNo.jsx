@@ -9,7 +9,7 @@ const PageNo = () => {
       <h2>Você não deveria estar aqui!! Sua unica opção é ir pro pau.</h2>
       <img src={otacu} />
       <nav>
-        <Link to="/Page1">IR PRO PAU!!!!</Link>
+        <Link to="/">IR PRO PAU!!!!</Link>
       </nav>
     </div>
   );
